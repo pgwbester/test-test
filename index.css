@@ -1,0 +1,46 @@
+h1 {
+  background-image: url(images/pattern.webp);
+  width: 100%;
+}
+
+.h3 {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+.title {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
